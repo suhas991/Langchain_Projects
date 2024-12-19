@@ -4,7 +4,7 @@ python-dotenv
 streamlit
 langchain-community
 langserve
-fastapi==0.115.0
+fastapi
 uvicorn
 sse_starlette
 bs4
