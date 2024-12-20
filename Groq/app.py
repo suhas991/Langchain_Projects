@@ -91,3 +91,4 @@ if "vector_store" in st.session_state:
             st.error(f"Error processing request: {str(e)}")
 else:
     st.error("Vector store not initialized properly. Please check your configuration.")
+
